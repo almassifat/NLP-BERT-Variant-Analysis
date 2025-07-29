@@ -49,11 +49,6 @@ We evaluate each model’s **performance, efficiency, and robustness**, providin
 
 ---
 
-## 🖼️ Training Curves
-
-![Training Curves](docs/training_curves.png)
-
----
 
 ## ⚙️ Installation
 
